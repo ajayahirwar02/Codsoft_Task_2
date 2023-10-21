@@ -1,2 +1,2 @@
 # Codsoft_Task_2
-Task_2 Calculator using Python
+Task_2 Calculator in Python
